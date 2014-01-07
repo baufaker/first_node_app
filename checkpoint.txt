@@ -1,0 +1,5 @@
+Falta:
+
+- As rotas não estão funcionando. Preciso fazê-las funcionar;
+- Preciso dar push do projeto para o git;
+- Fazer deploy pro heroku.
