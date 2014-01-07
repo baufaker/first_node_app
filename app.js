@@ -39,7 +39,7 @@ app.get('/users', user.list);
 
 app.get('/', function(req, res){
   res.render('index', {
-    title: 'Home'
+    title: 'Bem vinda, Peligas'
   });
 });
 
